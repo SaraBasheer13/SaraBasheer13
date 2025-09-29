@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Basheer</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | Theoretical Computer Science</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Theoretical Computer Science | Problem Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarabasheer13&label=Profile%20views&color=0e75b6&style=flat" alt="sarabasheer13" /> </p>
 
@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sara-basheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara-basheer" height="30" width="40" /></a>
 <a href="https://kaggle.com/sarabasheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarabasheer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sarabasheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarabasheer" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sarabasheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sarabasheer" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sarabasheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sarabasheer" height="30" width="40" /></a>
 </p>
 
